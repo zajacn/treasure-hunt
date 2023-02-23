@@ -43,4 +43,4 @@ XI.   Any man deserting the ship in battle or rewriting history on the
 
 Captain      : Natalia Zajac  
 Quartermaster: NAME HERE  
-First mate   : NAME HERE  
+First mate   : Vi Garnier  
